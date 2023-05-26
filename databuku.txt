@@ -1,0 +1,18 @@
+Kode Buku: 001
+Judul: Belajar C++
+Pengarang: Iksan
+Tahun Terbit: 2001
+Jumlah Halaman: 100
+Penerbit: Airlangga
+Kategori: Edukasi
+Cover: 1lic.png
+
+Kode Buku: 002
+Judul: Belajar PHP
+Pengarang: Iqbal
+Tahun Terbit: 2010
+Jumlah Halaman: 201
+Penerbit: PT.MAP
+Kategori: Edukasi
+Cover: gabisamasukdedi1.png
+
